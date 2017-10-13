@@ -150,7 +150,10 @@ void __attribute__((interrupt,no_auto_psv)) _AltMathError(void)
 /*                                                                            */
 /* This executes when an interrupt occurs for an interrupt source with an     */
 /* improperly defined or undefined interrupt handling routine.                */
-/******************************************************************************/
+/**************************
+wejkljdljqwjd
+ajdhkjahdjkhas
+****************************************************/
 void __attribute__((interrupt,no_auto_psv)) _DefaultInterrupt(void)
 {
         while(1);
